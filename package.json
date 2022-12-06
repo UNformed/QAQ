@@ -14,7 +14,7 @@
     "element-ui": "^2.11.1",
     "less": "^3.10.3",
     "less-loader": "^5.0.0",
-    "qs": "^6.7.0",
+    "qs": "^6.7.3",
     "ts-loader": "^6.2.0",
     "tslint": "^5.20.0",
     "tslint-config-standard": "^8.0.1",
